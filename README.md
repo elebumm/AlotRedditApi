@@ -6,3 +6,5 @@
 2. Insert Username and Password in the appropriate spots
 3. `python main.py`
 4. Laugh at all the people who forget (or don't know) about the space between 'a' and 'lot'
+
+### Feel free to contribute to help let the world know that it is spelt: 'a lot'. Not 'alot'.
